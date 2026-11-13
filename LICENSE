@@ -1,0 +1,85 @@
+PHOENIX LICENSE
+Version 1.0 — Draft
+
+Copyright (c) 2026 Phoenix Project Contributors.
+
+IMPORTANT
+This is an independently drafted license text. It is not based on, derived from,
+or a modified version of the Mozilla Public License 2.0 (MPL 2.0).
+This draft has not been reviewed by a lawyer or approved by the Open Source
+Initiative (OSI). Obtain legal review before using it for public distribution.
+
+1. DEFINITIONS
+
+“Licensor” means the copyright holder(s) who make the software available under
+this License.
+“Software” means the source code and other materials expressly released under
+this License.
+“Derivative Project” means a modified version or a work based on the Software.
+
+2. OPEN SOURCE AND SOURCE AVAILABILITY
+
+The Software must be distributed with its complete corresponding source code.
+If a binary or compiled version is distributed, the corresponding source code
+must be made available to recipients at the same time, without an additional
+charge for the source itself.
+
+3. PERMISSION TO USE, MODIFY, AND DISTRIBUTE
+
+Subject to the terms of this License, every recipient is granted permission to
+use, study, copy, modify, and distribute the Software and Derivative Projects.
+
+4. ATTRIBUTION AND ORIGIN
+
+When distributing the Software or a Derivative Project, recipients must:
+(a) retain applicable copyright and license notices;
+(b) include a copy of this License;
+(c) identify the original Phoenix project from which the work originates; and
+(d) include a clear statement such as:
+    “This project is based on [ORIGINAL PROJECT NAME].”
+
+5. PROJECT NAMES AND TRADEMARKS
+
+A Derivative Project may use its own name. It must not falsely claim to be an
+official Phoenix project or imply sponsorship, approval, or endorsement by the
+Phoenix project or its contributors.
+
+This License does not grant permission to use any Phoenix name, logo, or
+trademark except to accurately identify the origin of the Software as required
+by Section 4. Any other trademark use requires separate permission.
+
+6. MODIFICATIONS
+
+Distributors of modified versions must clearly indicate that changes were
+made and must not present modified versions as the original, unmodified work.
+
+7. NO ADDITIONAL RESTRICTIONS
+
+Recipients may not impose additional restrictions that prevent other
+recipients from exercising the permissions granted by this License.
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDERS AND
+CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+10. INDEPENDENT LICENSE
+
+This License is an independently drafted license. It is not based on the
+Mozilla Public License 2.0 or any other third-party license.
+
+11. PROJECTS USING THIS LICENSE
+
+The Phoenix ecosystem may include projects such as Phoenix, Phoenix Search,
+Phoenix AI, PhoenixBurn, and Elixir Phoenix. Each project must be released
+under this License by its relevant copyright holder(s). Listing a project here
+does not itself establish ownership or authorization.
+
+END OF PHOENIX LICENSE
